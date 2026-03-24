@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "FAKE LOVER",
+  "base_artist": "高瀬統也",
+  "createdAt": "2026-03-24T16:19:33.582217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fake Lover",
+      "artist": "The Vitals 808",
+      "has_synced": false,
+      "path": "select/01_Fake_Lover_The_Vitals_808.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FAKE LOVER",
+      "artist": "TakaseToya",
+      "has_synced": true,
+      "path": "select/02_FAKE_LOVER_TakaseToya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fake Lover",
+      "artist": "BILLY BOO",
+      "has_synced": true,
+      "path": "select/03_Fake_Lover_BILLY_BOO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fake Lover",
+      "artist": "Raymix",
+      "has_synced": true,
+      "path": "select/04_Fake_Lover_Raymix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fake Lover",
+      "artist": "Raymix",
+      "has_synced": true,
+      "path": "select/05_Fake_Lover_Raymix.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fake Lover - Remix",
+      "artist": "Raymix",
+      "has_synced": true,
+      "path": "select/06_Fake_Lover_-_Remix_Raymix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fake Lover",
+      "artist": "Toya Takase",
+      "has_synced": true,
+      "path": "select/07_Fake_Lover_Toya_Takase.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FAKE LOVER",
+      "artist": "高瀬統也",
+      "has_synced": true,
+      "path": "select/08_FAKE_LOVER_高瀬統也.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FAKE LOVER",
+      "artist": "Takase, Toya",
+      "has_synced": true,
+      "path": "select/09_FAKE_LOVER_Takase,_Toya.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FAKE LOVER KILLA",
+      "artist": "Young Igi",
+      "has_synced": true,
+      "path": "select/10_FAKE_LOVER_KILLA_Young_Igi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fake Lover",
+      "artist": "jimmythumbP Feat. Akatin",
+      "has_synced": false,
+      "path": "select/11_Fake_Lover_jimmythumbP_Feat._Akatin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FAKE LOVER",
+      "artist": "高瀬統也",
+      "has_synced": false,
+      "path": "select/pl_01_FAKE_LOVER_高瀬統也.txt"
+    }
+  ]
+}
